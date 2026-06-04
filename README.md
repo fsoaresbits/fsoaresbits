@@ -16,10 +16,9 @@ Um desenvolvedor de sistemas em formação, entusiasta do ecossistema Linux e fo
 * 🛢️ **SQL (MySQL)**
 
 ### Infraestrutura e Sistemas
-* 🐧 **Linux:** Experiência com as distribuições Ubuntu e Debian.
+* 🐧 **Linux:** Experiência com as distribuições Ubuntu/Debian.
 * 🌐 **Redes:** Implementação de infraestrutura e cabeamento estruturado.
 * 🔧 **Suporte & Operações:** Diagnóstico e resolução de incidentes Nível 1 e 2, gerenciamento de chamados via GLPI (foco em SLAs) e manutenções preventivas para redução de *downtime*.
 
 ### Metodologias e Diferenciais
-* ⚡ **Metodologias Ágeis:** Prática com Scrum e Kanban.
-* ♿ **Acessibilidade Digital:** Conhecimento e padronização de ferramentas assistivas essenciais (NVDA e DOSVOX).
+* ⚡ **Metodologias Ágeis:** Scrum e Kanban.
