@@ -21,4 +21,4 @@ Um desenvolvedor de sistemas em formação, entusiasta do ecossistema Linux e fo
 * **Suporte & Operações:** Diagnóstico e resolução de incidentes Nível 1 e 2, gerenciamento de chamados via GLPI (foco em SLAs) e manutenções preventivas para redução de *downtime*.
 
 ### Metodologias e Diferenciais
-* ⚡ **Metodologias Ágeis:** Scrum e Kanban.
+* **Metodologias Ágeis:** Scrum e Kanban.
