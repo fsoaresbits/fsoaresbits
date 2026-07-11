@@ -14,6 +14,7 @@ Um desenvolvedor de sistemas em formação, entusiasta do ecossistema Linux e fo
 ### Linguagens e Bancos de Dados
 * **Python**
 * **SQL (MySQL)**
+* **Java (Em aprendizado)**
 
 ### Infraestrutura e Sistemas
 * **Linux:** Experiência com as distribuições Ubuntu/Debian.
